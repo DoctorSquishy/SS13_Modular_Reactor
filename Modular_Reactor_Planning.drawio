@@ -167,8 +167,14 @@
         <mxCell id="lwZOsZ6-oGwZ97n4zUEH-38" value="GAS TYPES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1152" y="724" width="128" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="B8V8RemtQimRTfrTWwzf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lwZOsZ6-oGwZ97n4zUEH-40" target="lwZOsZ6-oGwZ97n4zUEH-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B8V8RemtQimRTfrTWwzf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lwZOsZ6-oGwZ97n4zUEH-40" target="lwZOsZ6-oGwZ97n4zUEH-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lwZOsZ6-oGwZ97n4zUEH-40" value="MATERIAL UPGRADES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1112" y="416" width="160" height="24" as="geometry" />
+          <mxGeometry x="1360" y="418" width="160" height="24" as="geometry" />
         </mxCell>
         <mxCell id="lwZOsZ6-oGwZ97n4zUEH-41" value="Δ TEMPERATURE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="472" width="128" height="32" as="geometry" />
@@ -179,53 +185,58 @@
         <mxCell id="lwZOsZ6-oGwZ97n4zUEH-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lwZOsZ6-oGwZ97n4zUEH-43" target="lwZOsZ6-oGwZ97n4zUEH-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1040" y="456" />
-              <mxPoint x="1040" y="380" />
+              <mxPoint x="1120" y="416" />
+              <mxPoint x="1120" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B8V8RemtQimRTfrTWwzf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lwZOsZ6-oGwZ97n4zUEH-43" target="B8V8RemtQimRTfrTWwzf-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="416" />
+              <mxPoint x="1120" y="268" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lwZOsZ6-oGwZ97n4zUEH-43" value="FUEL ROD TYPES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="1112" y="440" width="160" height="32" as="geometry" />
+          <mxGeometry x="1144" y="400" width="160" height="32" as="geometry" />
         </mxCell>
         <mxCell id="lwZOsZ6-oGwZ97n4zUEH-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lwZOsZ6-oGwZ97n4zUEH-45" target="lwZOsZ6-oGwZ97n4zUEH-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1176" y="528" />
+              <mxPoint x="1208" y="488" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lwZOsZ6-oGwZ97n4zUEH-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lwZOsZ6-oGwZ97n4zUEH-45" target="lwZOsZ6-oGwZ97n4zUEH-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1064" y="488" />
-              <mxPoint x="1064" y="464" />
+              <mxPoint x="1096" y="448" />
+              <mxPoint x="1096" y="424" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lwZOsZ6-oGwZ97n4zUEH-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lwZOsZ6-oGwZ97n4zUEH-45" target="lwZOsZ6-oGwZ97n4zUEH-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1192" y="584" />
+              <mxPoint x="1224" y="544" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lwZOsZ6-oGwZ97n4zUEH-45" value="VESSEL MATERIAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="1112" y="472" width="160" height="32" as="geometry" />
+          <mxGeometry x="1144" y="432" width="160" height="32" as="geometry" />
         </mxCell>
         <mxCell id="lwZOsZ6-oGwZ97n4zUEH-47" value="&lt;div&gt;RADIATION&amp;nbsp;&lt;/div&gt;&lt;div&gt;TRANSMISSION&lt;/div&gt;&lt;div&gt;FACTOR&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="912" y="432" width="104" height="56" as="geometry" />
+          <mxGeometry x="944" y="392" width="104" height="56" as="geometry" />
         </mxCell>
         <mxCell id="lwZOsZ6-oGwZ97n4zUEH-48" value="MAX TEMPERATURE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="560" width="160" height="32" as="geometry" />
+          <mxGeometry x="912" y="520" width="160" height="32" as="geometry" />
         </mxCell>
         <mxCell id="lwZOsZ6-oGwZ97n4zUEH-52" value="MAX PRESSURE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="512" width="160" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="B8V8RemtQimRTfrTWwzf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lwZOsZ6-oGwZ97n4zUEH-59" target="lwZOsZ6-oGwZ97n4zUEH-47">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="912" y="472" width="160" height="32" as="geometry" />
         </mxCell>
         <mxCell id="lwZOsZ6-oGwZ97n4zUEH-59" value="&lt;div&gt;RADIATION&amp;nbsp;&lt;/div&gt;STRENGTH" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="912" y="352" width="104" height="56" as="geometry" />
+          <mxGeometry x="944" y="312" width="104" height="56" as="geometry" />
         </mxCell>
         <mxCell id="lwZOsZ6-oGwZ97n4zUEH-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="lwZOsZ6-oGwZ97n4zUEH-59" target="lwZOsZ6-oGwZ97n4zUEH-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -253,6 +264,9 @@
         </mxCell>
         <mxCell id="lwZOsZ6-oGwZ97n4zUEH-75" value="&lt;div align=&quot;center&quot;&gt;&lt;font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;INPUT&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PUMP&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;align=center;fillColor=none;strokeColor=light-dark(#000000,#007FFF);" parent="1" vertex="1">
           <mxGeometry x="160" y="418" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="B8V8RemtQimRTfrTWwzf-2" value="CRITICALITY (K)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="944" y="240" width="104" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
