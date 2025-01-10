@@ -122,7 +122,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="920" y="744" />
-              <mxPoint x="792" y="744" />
+              <mxPoint x="816" y="744" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -155,7 +155,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lwZOsZ6-oGwZ97n4zUEH-35" value="&lt;div&gt;PRESSURE&lt;/div&gt;&lt;div&gt;INITIAL&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="728" y="688" width="128" height="32" as="geometry" />
+          <mxGeometry x="752" y="688" width="128" height="32" as="geometry" />
         </mxCell>
         <mxCell id="lwZOsZ6-oGwZ97n4zUEH-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#66B2FF);" parent="1" source="lwZOsZ6-oGwZ97n4zUEH-38" target="lwZOsZ6-oGwZ97n4zUEH-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -409,7 +409,7 @@
           <mxGeometry x="1088" y="407.26" width="128" height="32" as="geometry" />
         </mxCell>
         <mxCell id="B8V8RemtQimRTfrTWwzf-49" value="OUTPUT PUMP" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;strokeColor=light-dark(#000000,#660000);fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="888" y="208" width="64" height="62" as="geometry" />
+          <mxGeometry x="888" y="240" width="64" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
