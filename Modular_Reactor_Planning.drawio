@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.4" pages="2">
   <diagram id="KosrGW8jvXDnesVTpWi8" name="Reactor Connections">
-    <mxGraphModel dx="576" dy="331" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="800" math="1" shadow="0">
+    <mxGraphModel dx="1430" dy="822" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="800" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="bBfv-nzKvrxbzy7N3bJN-31" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;CORE&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;9&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=none;shadow=0;glass=0;strokeColor=default;dashed=1;fillStyle=auto;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="384" width="64" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="bBfv-nzKvrxbzy7N3bJN-33" value="OUTPUT PUMP" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;strokeColor=light-dark(#000000,#660000);fillColor=none;" vertex="1" parent="1">
+        <mxCell id="bBfv-nzKvrxbzy7N3bJN-33" value="OUTPUT PUMP" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;strokeColor=light-dark(#000000,#660000);fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="256" y="128" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="bBfv-nzKvrxbzy7N3bJN-37" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;CORE&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;8&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=none;shadow=0;glass=0;strokeColor=default;dashed=1;fillStyle=auto;gradientColor=none;" vertex="1" parent="1">
@@ -40,11 +40,11 @@
         <mxCell id="bBfv-nzKvrxbzy7N3bJN-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=4;endArrow=none;endFill=0;strokeColor=light-dark(#006EAF,#00FFFF);targetPerimeterSpacing=0;shadow=0;jumpStyle=none;jumpSize=6;fillColor=#1ba1e2;endSize=6;" edge="1" parent="1" source="bBfv-nzKvrxbzy7N3bJN-39" target="bBfv-nzKvrxbzy7N3bJN-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bBfv-nzKvrxbzy7N3bJN-39" value="&lt;div align=&quot;center&quot;&gt;&lt;font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;INPUT&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PUMP&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;align=center;fillColor=none;strokeColor=light-dark(#000000,#007FFF);" vertex="1" parent="1">
+        <mxCell id="bBfv-nzKvrxbzy7N3bJN-39" value="&lt;div align=&quot;center&quot;&gt;&lt;font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;INPUT&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PUMP&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;align=center;fillColor=none;strokeColor=light-dark(#000000,#007FFF);" vertex="1" parent="1">
           <mxGeometry x="256" y="512" width="64" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="bBfv-nzKvrxbzy7N3bJN-40" value="MODULAR TURBINE" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="384" y="128" width="192" height="62" as="geometry" />
+        <mxCell id="bBfv-nzKvrxbzy7N3bJN-40" value="MODULAR TURBINE" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="384" y="129" width="192" height="62" as="geometry" />
         </mxCell>
         <mxCell id="6jKDe7CWcPHJh73uw31w-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=4;endArrow=none;endFill=0;strokeColor=light-dark(#006EAF,#00FFFF);targetPerimeterSpacing=0;shadow=0;jumpStyle=none;jumpSize=6;fillColor=#1ba1e2;endSize=6;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -98,6 +98,16 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="273.71" y="256" as="sourcePoint" />
             <mxPoint x="273.71" y="192" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6jKDe7CWcPHJh73uw31w-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=4;endArrow=none;endFill=0;strokeColor=light-dark(#006EAF,#FF0000);targetPerimeterSpacing=0;shadow=0;jumpStyle=none;jumpSize=6;fillColor=#1ba1e2;endSize=6;startArrow=none;startFill=0;entryX=0.78;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bBfv-nzKvrxbzy7N3bJN-40" target="bBfv-nzKvrxbzy7N3bJN-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="160" as="sourcePoint" />
+            <mxPoint x="320" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="384" y="160" />
+              <mxPoint x="384" y="160" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
